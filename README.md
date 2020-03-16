@@ -1,7 +1,7 @@
 = TASKEX =
 
 [![Build Status](https://travis-ci.org/zhenyatnk/taskex.svg?branch=master)](https://travis-ci.org/zhenyatnk/taskex)
-[![Build status](https://ci.appveyor.com/api/projects/status/lmnvxxrdfrf75vrp/branch/master?svg=true)](https://ci.appveyor.com/project/zhenyatnk/taskex/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/x12noh5yjnlxi2hv?svg=true)](https://ci.appveyor.com/project/zhenyatnk/taskex)
 
 == Setting Up the Environment ==
 
