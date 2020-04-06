@@ -38,6 +38,3 @@ int main()
    return 0;
 }
 ```
-
-
-WARNING: Add usage samples here...
