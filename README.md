@@ -32,9 +32,9 @@ This is header only library, for using need include header file.
 ``` cpp
 int main()
 {
-   std::cout << Task<int>([]{return 1;})
-              .then<std::string>([](const auto& el){ return std::to_string(el);})
-              .get(); // in display 1
+   std::cout << taskex::Task<int>([]{return 1;})
+                .then<std::string>([](const auto& el){ return std::to_string(el);})
+                .get(); // in display 1
    return 0;
 }
 ```
