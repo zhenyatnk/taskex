@@ -41,7 +41,7 @@ For wait and get result function use method `get`
    int a = task.get(); // a = 1
 ```
 
-## Dependencies
+### Dependencies
 The start of a task may depend on the completion of another task. For such a dependence use method `then` for task.
 Method `then` have template argument this is return type for function.
 ``` cpp
